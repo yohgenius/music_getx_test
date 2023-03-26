@@ -18,4 +18,4 @@ This project's purpose is as an assignment for hiring
 - just_audio_background
 - itunes api
 
-![Home screen] (https://github.com/yohgenius/music_getx_test/blob/main/assets/images/1.jpeg?raw=true)
+![Home screen] (https://github.com/yohgenius/music_getx_test/blob/main/assets/images/1.jpeg)
