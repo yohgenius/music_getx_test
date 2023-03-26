@@ -33,12 +33,15 @@ This project's purpose is as an assignment for hiring
     <td>
 <img width="322" alt="Home Screen connection failure" src="https://user-images.githubusercontent.com/20897249/227759967-d36bcb18-70b0-4e48-97bf-d5e9644d70f1.jpeg">
     </td>
+    <td>
+<img width="322" alt="Music Player Screen" src="https://user-images.githubusercontent.com/20897249/227759968-28978fe2-5a85-46bf-88b8-315b61b51798.jpeg">
+    </td>
+    <td>
+<img width="322" alt="Player on status bar" src="https://user-images.githubusercontent.com/20897249/227759969-592e68d4-89d0-470f-8e5d-0e2738cfcbfa.jpeg">
+    </td>
   </tr>
 </table>
 
 
 
 
-<img width="322" alt="Music Player Screen" src="https://user-images.githubusercontent.com/20897249/227759968-28978fe2-5a85-46bf-88b8-315b61b51798.jpeg">
-
-<img width="322" alt="Player on status bar" src="https://user-images.githubusercontent.com/20897249/227759969-592e68d4-89d0-470f-8e5d-0e2738cfcbfa.jpeg">
