@@ -30,6 +30,8 @@ This project's purpose is as an assignment for hiring
     <td>
 <img width="322" alt="Search Screen 2" src="https://user-images.githubusercontent.com/20897249/227759966-44f64a47-98e1-40f6-8145-662b2b23ff16.jpeg">
     </td>
+  </tr>
+  <tr>
     <td>
 <img width="322" alt="Home Screen connection failure" src="https://user-images.githubusercontent.com/20897249/227759967-d36bcb18-70b0-4e48-97bf-d5e9644d70f1.jpeg">
     </td>
