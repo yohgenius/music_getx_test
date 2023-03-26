@@ -18,13 +18,26 @@ This project's purpose is as an assignment for hiring
 - just_audio_background
 - itunes api
 
+<table>
+  <tr>
+    <td>
+
 <img width="322" alt="Home Screen" src="https://user-images.githubusercontent.com/20897249/227759530-46e8b605-9bf0-48ff-849d-1e9289bb8ce4.jpeg">
-
+    </td>
+    <td>
 <img width="322" alt="Search Screen" src="https://user-images.githubusercontent.com/20897249/227759961-d8bdf987-a40b-4a7a-bd0f-7762ec5b57a9.jpeg">
-
+    </td>
+    <td>
 <img width="322" alt="Search Screen 2" src="https://user-images.githubusercontent.com/20897249/227759966-44f64a47-98e1-40f6-8145-662b2b23ff16.jpeg">
-
+    </td>
+    <td>
 <img width="322" alt="Home Screen connection failure" src="https://user-images.githubusercontent.com/20897249/227759967-d36bcb18-70b0-4e48-97bf-d5e9644d70f1.jpeg">
+    </td>
+  </tr>
+</table>
+
+
+
 
 <img width="322" alt="Music Player Screen" src="https://user-images.githubusercontent.com/20897249/227759968-28978fe2-5a85-46bf-88b8-315b61b51798.jpeg">
 
