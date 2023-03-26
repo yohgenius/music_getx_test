@@ -19,3 +19,5 @@ This project's purpose is as an assignment for hiring
 - itunes api
 
 ![Home screen] (https://github.com/yohgenius/music_getx_test/blob/main/assets/images/1.jpeg)
+![1](https://user-images.githubusercontent.com/20897249/227759530-46e8b605-9bf0-48ff-849d-1e9289bb8ce4.jpeg)
+
